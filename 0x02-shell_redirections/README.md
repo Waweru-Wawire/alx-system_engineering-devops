@@ -4,3 +4,4 @@
 
 2.Displaying contents of a file.
 -e\n3.Display contents of two files
+-e3.Display the last ten lines of a files
